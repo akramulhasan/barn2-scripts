@@ -11,9 +11,8 @@ As a Support Engineer at Barn2 Plugins, our goal is to provide tailored solution
 This repository includes a variety of custom scripts that address different use cases, such as:
 
 - **WooCommerce Customizations:** Scripts to extend or modify the functionality of WooCommerce.
-- **Product Table Pro Enhancements:** Custom code snippets to tweak or enhance the behavior of the Product Table Pro plugin.
+- **Barn2 Premium Plugins Enhancements:** Custom code snippets to tweak or enhance the behavior of the premium plugin.
 - **Performance Improvements:** Optimizations and fixes for improving site performance.
-- **Bug Fixes:** Patches for issues encountered by customers.
 - **UI/UX Tweaks:** Adjustments to enhance the user experience.
 
 ## How to Use
