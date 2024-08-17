@@ -1,3 +1,8 @@
+/**
+ *
+ * This script will take two fields value and will multiply them. If the results is less then to n, it will off the add to cart button
+ */
+
 function checkSurface() {
   const numberFields = document.querySelectorAll('input[type="number"]');
   let valid = true;
